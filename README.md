@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am  Ahmed  Mostafa</h2>
+<h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! I am  Ahmed  Mostafa</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 <br>
 I enjoy exploring new technologies and continuously pushing the boundaries of what's possible in web development. Beyond coding, I'm also the founder of a real estate agency and the creator of Brave, a modern cleaning supplies brand.
 
-🌍 Fluent in Arabic,Engilsh,and currently learning German, I love connecting with people from diverse backgrounds and collaborating on innovative projects.
+🌍 Fluent in Arabic :egypt: ,Engilsh,and currently learning German, I love connecting with people from diverse backgrounds and collaborating on innovative projects.
 
 Let's build something amazing together! 🚀</p>
 
