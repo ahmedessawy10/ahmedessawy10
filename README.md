@@ -2,18 +2,19 @@
 
 ###
 
-<h3 align="left">web developer</h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=27&pause=1000&color=FF5E5A&background=FFFFFF00&width=435&lines=Software+Engineer+;FullStack+Laravel+Developer;Angular+professional" alt="Typing SVG" /></a></h3>
 
 ###
 
 <p align="left">I'm a passionate Full-Stack Web Developer with a keen interest in creating immersive web experiences that seamlessly blend functionality and design. My tech stack includes:
 
-<br>🛠️Backend: PHP, Laravel<br>
-<br>💻 Frontend: Angular<br>
-<br>🌱 Current Learning:  DevOps, AWS <br>
+🛠️ Backend: PHP, Laravel <br>
+💻 Frontend: Angular <br>
+🌱 Current Learning:  DevOps, AWS 
+<br>
 I enjoy exploring new technologies and continuously pushing the boundaries of what's possible in web development. Beyond coding, I'm also the founder of a real estate agency and the creator of Brave, a modern cleaning supplies brand.
 
-🌍 Fluent in Arabic and currently learning German, I love connecting with people from diverse backgrounds and collaborating on innovative projects.
+🌍 Fluent in Arabic,Engilsh,and currently learning German, I love connecting with people from diverse backgrounds and collaborating on innovative projects.
 
 Let's build something amazing together! 🚀</p>
 
