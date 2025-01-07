@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a passionate full-stack web developer with a strong foundation in backend development using PHP and Laravel, and frontend expertise in Angular. I'm currently expanding my skill set by diving into C++ and algorithms, as well as exploring the realms of DevOps and AWS.<br><br>My goal is to craft captivating web experiences that seamlessly blend functionality with aesthetics. I'm always eager to learn and innovate, striving to bring unique and efficient solutions to every project.<br><br>Let's connect and collaborate on exciting projects!</h4>
+<p align="left">I'm a passionate full-stack web developer with a strong foundation in backend development using PHP and Laravel, and frontend expertise in Angular. I'm currently expanding my skill set by diving into C++ and algorithms, as well as exploring the realms of DevOps and AWS.<br><br>My goal is to craft captivating web experiences that seamlessly blend functionality with aesthetics. I'm always eager to learn and innovate, striving to bring unique and efficient solutions to every project.<br><br>Let's connect and collaborate on exciting projects!</p>
 
 ###
 
