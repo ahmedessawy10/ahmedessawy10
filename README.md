@@ -8,9 +8,9 @@
 
 <p align="left">I'm a passionate Full-Stack Web Developer with a keen interest in creating immersive web experiences that seamlessly blend functionality and design. My tech stack includes:
 
-- Backend: PHP, Laravel
-- Frontend: Angular
-- Current Learning:  DevOps, AWS
+<br>🛠️Backend: PHP, Laravel<br>
+<br>💻 Frontend: Angular<br>
+<br>🌱 Current Learning:  DevOps, AWS <br>
 I enjoy exploring new technologies and continuously pushing the boundaries of what's possible in web development. Beyond coding, I'm also the founder of a real estate agency and the creator of Brave, a modern cleaning supplies brand.
 
 🌍 Fluent in Arabic and currently learning German, I love connecting with people from diverse backgrounds and collaborating on innovative projects.
