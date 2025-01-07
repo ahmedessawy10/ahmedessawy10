@@ -8,12 +8,7 @@
 
 <p align="left">I'm a passionate full-stack web developer with a strong foundation in backend development using PHP and Laravel, and frontend expertise in Angular. I'm currently expanding my skill set by diving into C++ and algorithms, as well as exploring the realms of DevOps and AWS.<br><br>My goal is to craft captivating web experiences that seamlessly blend functionality with aesthetics. I'm always eager to learn and innovate, striving to bring unique and efficient solutions to every project.<br><br>Let's connect and collaborate on exciting projects!</p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedessawy10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedessawy10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -93,9 +88,15 @@
 
 ###
 
-<p align="left"></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedessawy10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedessawy10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ###
+
+
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=@elessawy238" alt="Layout with last medium posts"  />
