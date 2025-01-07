@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed  Mostafa</h2>
+<h2 align="left">Hi 👋! I am  Ahmed  Mostafa</h2>
 
 ###
 
@@ -6,7 +6,15 @@
 
 ###
 
-<p align="left">I'm a passionate full-stack web developer with a strong foundation in backend development using PHP and Laravel, and frontend expertise in Angular. I'm currently expanding my skill set by diving into C++ and algorithms, as well as exploring the realms of DevOps and AWS.<br><br>My goal is to craft captivating web experiences that seamlessly blend functionality with aesthetics. I'm always eager to learn and innovate, striving to bring unique and efficient solutions to every project.<br><br>Let's connect and collaborate on exciting projects!</p>
+<p align="left">I'm a passionate Full-Stack Web Developer with a keen interest in creating immersive web experiences that seamlessly blend functionality and design. My tech stack includes:
+Backend: PHP, Laravel
+Frontend: Angular
+Current Learning:  DevOps, AWS
+I enjoy exploring new technologies and continuously pushing the boundaries of what's possible in web development. Beyond coding, I'm also the founder of a real estate agency and the creator of Brave, a modern cleaning supplies brand.
+
+🌍 Fluent in Arabic and currently learning German, I love connecting with people from diverse backgrounds and collaborating on innovative projects.
+
+Let's build something amazing together! 🚀</p>
 
 
 
