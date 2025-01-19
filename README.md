@@ -134,7 +134,7 @@ Here are some of the certifications I've earned:
 - **Maven Analytics: Thinking Like an Analyst**
 - **Cisco Networking Academy: Data Analytics Essentials**
 
-🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/sohilakhaledabbas/)!**
+🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-essawy-1106b31a1/)!**
 
 ---
 
