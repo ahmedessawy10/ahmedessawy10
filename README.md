@@ -128,11 +128,9 @@ Here are some of my recent projects that showcase my expertise:
 
 # 🌟 Certifications
 Here are some of the certifications I've earned:
-- **Google Data Analytics Professional Certificate**
-- **DataCamp Career and Skill Tracks**
-- **HackerRank SQL Certifications (Basic to Advanced)**
-- **Maven Analytics: Thinking Like an Analyst**
-- **Cisco Networking Academy: Data Analytics Essentials**
+- **NTI web design  Certificate**
+- **ITI  fullstack php**
+
 
 🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-essawy-1106b31a1/)!**
 
