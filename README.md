@@ -11,6 +11,7 @@
 🛠️ Backend: PHP, Laravel <br>
 💻 Frontend: Angular <br>
 🌱 Current Learning:  DevOps, AWS 
+✨ Fluent in **Arabic** and **English** (C2) and **Germany** (A1)
 <br>
 I enjoy exploring new technologies and continuously pushing the boundaries of what's possible in web development. Beyond coding, I'm also the founder of a real estate agency and the creator of Brave, a modern cleaning supplies brand.
 
@@ -114,3 +115,35 @@ Let's build something amazing together! 🚀</p>
 </div>
 
 ###
+
+# 🚀 Featured Projects
+Here are some of my recent projects that showcase my expertise:
+- **[project ecommerce](https://github.com/ahmedessawy10/fashion-store)**  
+*Technologies: html,css, js*  
+- responsive design 
+- get data from Api
+
+  
+🔍 **Check out more of my projects in [my repositories](https://github.com/ahmedessawy10?tab=repositories)!**
+
+# 🌟 Certifications
+Here are some of the certifications I've earned:
+- **Google Data Analytics Professional Certificate**
+- **DataCamp Career and Skill Tracks**
+- **HackerRank SQL Certifications (Basic to Advanced)**
+- **Maven Analytics: Thinking Like an Analyst**
+- **Cisco Networking Academy: Data Analytics Essentials**
+
+🎓 **Explore the full list of my certifications on [LinkedIn](https://www.linkedin.com/in/sohilakhaledabbas/)!**
+
+---
+
+# 📫 Contact Me
+- **Email**: [elessawy238@gmail.com](mailto:elessawy238@gmail.com)
+- **LinkedIn**: [Ahmed mostaffa essawy](https://www.linkedin.com/in/ahmed-mostafa-essawy-1106b31a1/)
+
+---
+
+# 🌐 Portfolio
+
+Check out my full portfolio on my [website]() to see my work and the projects I’ve completed!
